@@ -2,7 +2,7 @@
 
 <kbd><img align="center" src="public/media/LLBIG.svg" width="600"></kbd>
 
-<h4 align="center">Lunaar. is a new unblocked games site that features a proxy, a wide selection of games, a sleek design, and much more for you to explore!</h4>
+<h4 align="center">Rns4918. is a new unblocked games site that features a proxy, a wide selection of games, a sleek design, and much more for you to explore!</h4>
 </div>
 
 ![Lunaar image](https://i.imgur.com/8LWMrXt.png)
@@ -10,7 +10,6 @@
 > [!IMPORTANT]
 > If you fork Lunaar, please give it a star.
 
-Also Join our [Discord Server](https://dsc.gg/parcoil) for links and more!
 
 ## Features
 
@@ -31,7 +30,3 @@ Also Join our [Discord Server](https://dsc.gg/parcoil) for links and more!
 [![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Parcoil/lunaar.org&branch=main&name=Lunaar)
 <a target="_blank" href="https://glitch.com/edit/#!/import/github/parcoil/lunaar.org"><img alt="Remix on Glitch" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg"></a>
 
-## Issues
-
-> [!NOTE]
-> If you encounter issues, create an [issue on GitHub](https://github.com/Parcoil/lunaar.org/issues/new) or join the [Discord Server](https://dsc.gg/parcoil).

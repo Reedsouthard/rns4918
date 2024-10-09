@@ -22,14 +22,14 @@ function se() {
 se();
 
 const texts = [
-  "Welcome to Lunaar v5!",
+  "Welcome to RNS v1!",
   "Rip Nativegames",
   "What's up brother!",
   "Do not insert text here",
   "They not like us",
   "1 + 1 = 11",
   "Rip Nativegames",
-  "LUNAARR",
+  "RNSSS",
   "insert text here",
   "🧀",
   "🥚",
@@ -37,24 +37,12 @@ const texts = [
   "My CPU is 156 degrees :)",
   "Spicy Nacho Doritos are good",
   "Yo so games are cool",
-  "Aiden does questionable things...",
-  "Rip Native",
+
   "Bonelab = Garys mod",
-  "Elden Ring on top - wavy ",
-  "Insert text here",
-  "Request games in our discord server!",
-  "Rip Native",
-  'Join our Discord: <a href="https://dsc.gg/parcoil">https://dsc.gg/parcoil</a>',
-  'Join our Discord For <a href="https://dsc.gg/parcoil">Links</a>',
   "Or what!",
   "Ewww Homework whats that",
-  "shit",
   "Powerade Sucks!",
   "The site to cure total boardness",
-  "Activate Lunaar.",
-  "Rip Nativegames",
-  "Rip Native",
-  'Did you know lunaar used to be a <a href="https://sites.google.com/view/thebestonlinegames/index?authuser=1">google site?</a>',
 ];
 
 fetch("https://api.ipify.org?format=json")

@@ -5,10 +5,8 @@
 <h4 align="center">Rns4918. is a new unblocked games site that features a proxy, a wide selection of games, a sleek design, and much more for you to explore!</h4>
 </div>
 
-![Lunaar image](https://i.imgur.com/8LWMrXt.png)
-
 > [!IMPORTANT]
-> If you fork Lunaar, please give it a star.
+> If you fork rns, please give it a star.
 
 
 ## Features
@@ -22,7 +20,7 @@
 ## Deployment
 
 > [!IMPORTANT]
-> You cannot deploy Lunaar to a static host, such as GitHub Pages or Cloudflare Pages.
+> You cannot deploy rns to a static host, such as GitHub Pages or Cloudflare Pages.
 
 ### You can click the button below to quickly deploy to a platform.
 

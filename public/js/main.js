@@ -24,9 +24,8 @@ se();
 const texts = [
   "Welcome to RNS v1!",
   "Rip Nativegames",
-  "What's up brother!",
+  "kill yourself!",
   "Do not insert text here",
-  "They not like us",
   "1 + 1 = 11",
   "Rip Nativegames",
   "RNSSS",
@@ -37,10 +36,6 @@ const texts = [
   "My CPU is 156 degrees :)",
   "Spicy Nacho Doritos are good",
   "Yo so games are cool",
-
-  "Bonelab = Garys mod",
-  "Or what!",
-  "Ewww Homework whats that",
   "Powerade Sucks!",
   "The site to cure total boardness",
 ];

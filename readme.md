@@ -24,7 +24,6 @@
 
 ### You can click the button below to quickly deploy to a platform.
 
-[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/Parcoil/lunaar.org)
-[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Parcoil/lunaar.org&branch=main&name=Lunaar)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=rns4918&type=git&repository=Reedsouthard%2Frns4918&branch=main&builder=buildpack&regions=was&env%5B%5D=&ports=8000%3Bhttp%3B%2F)
 <a target="_blank" href="https://glitch.com/edit/#!/import/github/parcoil/lunaar.org"><img alt="Remix on Glitch" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg"></a>
 
